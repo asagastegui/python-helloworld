@@ -1,2 +1,2 @@
-# python-helloworld
+# python-helloworld.
 test Susecloud fundation course
